@@ -6,7 +6,7 @@
 
 /* colours, fonts, size ---------------------------------------------------------------------- */
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Noto+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&family=Inconsolata:wght@200..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet');
 
 // Colors
 $bg: #D9D1D3;
@@ -33,9 +33,9 @@ $link-color: $cinnamon; // hyperlinks
 $code-block-bg: $taupe;
 
 // fonts
-$font-family: 'Noto Sans', sans-serif;
-$font-family2: 'Playfair Display', serif;
-$font-family3: 'Philosopher', serif;
+$font-family: 'Inconsolata', serif;
+$font-family2: 'Ubuntu', serif;
+$font-family3: 'Geist Mono', monospace;
 
 // toc 
 $toc-font-size: 12px;
@@ -120,7 +120,7 @@ h4 {
 
 
 .navbar {
-  border-width: 0 0 1px 0;
+  border-width: 0 0 0 0;
   border-style: solid;
   border-color: $berken;
 }  
