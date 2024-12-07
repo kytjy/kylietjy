@@ -1,0 +1,55 @@
+project:
+  type: website
+
+website:
+  title: "Kylie's Portfolio"
+  image: "Images/Icon.png"
+  favicon: "Images/Icon.png"
+  page-navigation: true
+  navbar:
+    logo: "Images/Icon.png"
+    title: false
+    collapse-below: lg
+    search: false
+    left: 
+      - text: "Visual Analytics"
+        menu: 
+          - text: "Course Webpage"
+            href: "https://akalestale.netlify.app/"
+          - text: "Project PISA (Probing Influences on Singaporean Academia)"
+            href: "https://projectpisa.netlify.app/"
+          - text: "Project PISA (SHINY App)"
+            href: "https://projectpisa.shinyapps.io/projectPISA/"
+            
+      - text: "Geospatial Analytics"
+        menu: 
+          - text: "Course Webpage"
+            href: "https://wecouldgoanywhere.netlify.app/"
+          - text: "(Singapore Geospatial Festival 2024) Understanding and Analysing Thailand Road Accident Data"
+            href: ""
+          - text: "Spatial Mobility Patterns in Singapore"
+            href: "https://isss624-kytjy.netlify.app/"
+
+            
+
+      - text: "Others"
+        menu: 
+          - text: Overseas Study Mission
+            href: Take-Home_Ex/Take-Home_Ex01/Take-Home_Ex01.html   
+
+      
+
+format:
+  html:
+    grid:
+      margin-width: 250px
+    toc: true
+    toc_float: true
+    theme: 
+      - theme.scss
+    highlight-style: tango
+    code-copy: hover
+    code-overflow: wrap
+    css: styles.css
+
+editor: visual
