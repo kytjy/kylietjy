@@ -26,7 +26,7 @@ website:
           - text: "Course Webpage"
             href: "https://wecouldgoanywhere.netlify.app/"
           - text: "(Singapore Geospatial Festival 2024) Understanding and Analysing Thailand Road Accident Data"
-            href: ""
+            href: "https://github.com/kytjy/kylietjy/blob/master/Images/ISSS626_BangkokAcc_Poster_KylieTan.pdf"
           - text: "Spatial Mobility Patterns in Singapore"
             href: "https://isss624-kytjy.netlify.app/"
 
@@ -34,8 +34,8 @@ website:
 
       - text: "Others"
         menu: 
-          - text: Overseas Study Mission
-            href: Take-Home_Ex/Take-Home_Ex01/Take-Home_Ex01.html   
+          - text: "Overseas Study Mission - Jakarta & Bandung"
+            href: "https://github.com/kytjy/kylietjy/blob/master/Images/MGMT6070%20OSM%20Reflection%20Poster.pdf"  
 
       
 
