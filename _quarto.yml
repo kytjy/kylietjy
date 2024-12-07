@@ -37,7 +37,10 @@ website:
           - text: "Overseas Study Mission - Jakarta & Bandung"
             href: "https://github.com/kytjy/kylietjy/blob/master/Images/MGMT6070%20OSM%20Reflection%20Poster.pdf"  
 
-      
+    right:
+      - href: "https://www.linkedin.com/in/kylietjy/"
+        text: "{{< fa brands linkedin size=lg >}}"
+
 
 format:
   html:
