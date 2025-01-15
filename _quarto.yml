@@ -26,7 +26,7 @@ website:
           - text: "Course Webpage"
             href: "https://wecouldgoanywhere.netlify.app/"
           - text: "(Singapore Geospatial Festival 2024) Understanding and Analysing Thailand Road Accident Data"
-            href: "https://github.com/kytjy/kylietjy/blob/master/Images/ISSS626_BangkokAcc_Poster.png"
+            href: "https://kylietjy.netlify.app/posters/ISSS626_BangkokAcc_Poster.png"
           - text: "Spatial Mobility Patterns in Singapore"
             href: "https://isss624-kytjy.netlify.app/"
 
@@ -35,24 +35,22 @@ website:
       - text: "Others"
         menu: 
           - text: "Overseas Study Mission - Jakarta & Bandung"
-            href: "https://github.com/kytjy/kylietjy/blob/master/Images/MGMT6070%20OSM%20Reflection%20Poster.pdf"  
+            href: "https://kylietjy.netlify.app/posters/MGMT6070_OSM_Reflection_Poster.pdf"  
 
     right:
       - href: "https://www.linkedin.com/in/kylietjy/"
         text: "{{< fa brands linkedin size=lg >}}"
+      - href: "https://github.com/kytjy/"
+        text: "{{< fa brands github size=lg >}}"
 
 
 format:
   html:
     grid:
       margin-width: 700px
-    toc: true
-    toc_float: true
     theme: 
       - theme.scss
     highlight-style: tango
-    code-copy: hover
-    code-overflow: wrap
     css: styles.css
 
 editor: visual

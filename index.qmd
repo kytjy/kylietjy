@@ -1,7 +1,6 @@
 ---
 title: ""
 toc: false
-format:
-  html:
-    css: landing.css
 ---
+
+![](Images/main_v.png){fig-align="center" width="100%"}
