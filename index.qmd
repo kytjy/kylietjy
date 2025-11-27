@@ -1,6 +1,9 @@
 ---
 title: ""
 toc: false
+format:
+  html:
+    page-layout: article #full
 ---
 
-![](Images/main_v.png){fig-align="center" width="100%"}
+![](Images/main_v_cafe.png){fig-align="center" width="100%"}
