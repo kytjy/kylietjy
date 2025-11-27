@@ -10,7 +10,6 @@ website:
     logo: "Images/Icon_2025.png"
     title: false
     collapse-below: lg
-    search: false
     pinned: true
     left: 
       - text: "Visual Analytics"

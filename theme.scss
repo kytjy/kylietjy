@@ -12,10 +12,8 @@
 $bg: #F1EFED;
 $porcelain: #dbd6c5;
 $berken: #645D4e;
-$putty: #E8d4bb;
 $coffee: #340f0f;
 $taupe: #fef5f0;
-$burgundy: #4F4A7F;
 $cinnamon: #815b41;
 
 
@@ -127,6 +125,7 @@ h4 {
 .navbar {
   border-width: 0 0 0 0;
   border-style: solid;
+  background-color: $bg;
   border-color: $berken;
   height: 45px;
 }  
